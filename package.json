@@ -4,7 +4,10 @@
   "version": "0.0.1",
   "main": "index.js",
   "homepage": "https://github.com/castelldev/insomnia-plugin-theme-synthwave-84",
-  "repository": "https://github.com/castelldev/insomnia-plugin-theme-synthwave-84.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/castelldev/insomnia-plugin-theme-synthwave-84.git"
+  },
   "bugs": {
     "url": "https://github.com/castelldev/insomnia-plugin-theme-synthwave-84/issues"
   },
