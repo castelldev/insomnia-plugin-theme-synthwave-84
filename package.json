@@ -1,0 +1,34 @@
+{
+  "name": "insomnia-plugin-theme-synthwave-84",
+  "description": "A Synthwave-inspired color theme to satisfy your neon dreams",
+  "version": "0.0.1",
+  "main": "index.js",
+  "homepage": "https://github.com/castelldev/insomnia-plugin-theme-synthwave-84",
+  "repository": "https://github.com/castelldev/insomnia-plugin-theme-synthwave-84.git",
+  "bugs": {
+    "url": "https://github.com/castelldev/insomnia-plugin-theme-synthwave-84/issues"
+  },
+  "insomnia": {
+    "name": "synthwave-84-theme",
+    "displayName": "Synthwave '84 Theme",
+    "description": "Based on Robb Owen's Synthwave '84 theme for VS Code",
+    "images": {
+      "icon": "./assets/logo.png",
+      "cover": "./assets/banner.png"
+    },
+    "publisher": {
+      "name": "castelldev",
+      "icon": "https://avatars.githubusercontent.com/u/84517879?v=4"
+    }
+  },
+  "keywords": [
+    "insomnia-plugin",
+    "synthwave",
+    "insomnia",
+    "theme",
+    "retro",
+    "80s"
+  ],
+  "author": "Franklin Castellanos",
+  "license": "MIT"
+}
