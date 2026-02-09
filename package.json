@@ -1,8 +1,14 @@
 {
   "name": "insomnia-plugin-theme-synthwave-84",
   "description": "A Synthwave-inspired color theme to satisfy your neon dreams",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "assets",
+    "LICENSE",
+    "README.md"
+  ],
   "homepage": "https://github.com/castelldev/insomnia-plugin-theme-synthwave-84",
   "repository": {
     "type": "git",
