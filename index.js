@@ -37,7 +37,6 @@ module.exports.themes = [
       svg[data-icon="check"] {
         color: ${colors.brightGreen} !important; /* Checkmark icon color */
       }
-
       i.fa.fa-check {
         color: ${colors.brightGreen} !important;
       }
@@ -50,6 +49,10 @@ module.exports.themes = [
       }
       .editor .cm-number {
         color: ${colors.orangeDark}; /* Editor JSON Numbers */
+      }
+
+      button.bg-\\(--color-surprise\\) {
+        background-color: ${colors.purpleMuted};
       }
 
       .tag.bg-success, .tag.bg-danger {
