@@ -7,7 +7,14 @@
 
 ![Synthwave '84 Theme banner](assets/banner.png)
 
-A Synthwave-inspired color theme for [Insomnia](https://insomnia.rest)—neon accents, dark backgrounds, and retro vibes. Based on Robb Owen's [Synthwave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode) theme for VS Code.
+A Synthwave-inspired color theme for [Insomnia](https://insomnia.rest) - neon accents, dark backgrounds, and retro vibes.  
+Based on Robb Owen's [Synthwave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode) theme for VS Code.
+
+Like the theme? ⭐ [Star this repo](https://github.com/castelldev/insomnia-plugin-theme-synthwave-84) if it makes your Insomnia setup better.
+
+## Preview
+
+![Synthwave '84 Theme preview](assets/preview.png)
 
 ## Installation
 
